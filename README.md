@@ -1,80 +1,39 @@
 # Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial
 
-¡Hola a todos! Estoy compartiendo mis apuntes del "Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial" con ustedes. Este curso es una introducción emocionante al mundo de las funciones matemáticas y su aplicación en áreas como Ciencia de Datos e Inteligencia Artificial. Aquí están mis notas:
+Bienvenidos a mis apuntes del "Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial". Este curso ofrece una base esencial en funciones matemáticas y su aplicación en el ámbito de la Ciencia de Datos y la Inteligencia Artificial.
 
 ---
 
-## Aprendamos lo elemental
-- Introducción al curso
+## Contenido
 
-## ¿Qué es una función?
-- Definición de función
-- Características fundamentales
+### Introducción
+- Presentación del curso y su importancia.
 
-## Tipos de variables
-- Exploración de tipos de variables
-- Importancia en funciones
+### Fundamentos de las Funciones
+- Definición y características de las funciones.
+- Tipos de variables y su relación con funciones.
+- Dominio y rango de una función.
 
-## Dominio y rango de una función
-- Entendiendo dominio y rango
-- Relación con conjuntos numéricos
+### Interpretación Matemática
+- Interpretación de símbolos y conjuntos en matemáticas.
 
-## Cómo leer las matemáticas: Símbolos generales
-- Interpretación de símbolos matemáticos
-- Facilitando la comprensión
+### Explorando Funciones
+- Clasificación y características detalladas de las funciones.
+- Estudio de funciones algebraicas lineales y polinómicas.
+- Funciones trascendentes y seccionadas.
 
-## Cómo leer las matemáticas: Conjuntos
-- Concepto de conjuntos en matemáticas
-- Utilidad en funciones
+### Manipulación de Funciones
+- Estrategias para transformar y manipular funciones.
+- Identificación de características como puntos críticos y asíntotas.
 
-## Todo sobre funciones
-- Exploración profunda de funciones
-- Clasificación y características
+### Aplicaciones en Ciencia de Datos
+- Rol de las funciones en Ciencia de Datos.
+- Introducción al perceptrón y funciones de activación.
 
-## Funciones algebraicas lineales
-- Estudio de funciones lineales
-- Ejemplos y aplicaciones
-
-## Funciones algebraicas polinómicas
-- Análisis de funciones polinómicas
-- Grados y comportamiento
-
-## Funciones trascendentes
-- Introducción a funciones trascendentes
-- Ejemplos como funciones exponenciales y logarítmicas
-
-## Funciones seccionadas
-- Concepto de funciones seccionadas o por partes
-- Ventajas y uso en modelización
-
-## Funciones compuestas
-- Composición de funciones
-- Entendiendo su aplicación
-
-## ¿Cómo manipular funciones?
-- Estrategias para manipular y transformar funciones
-- Cambios en dominio, rango y forma
-
-## Características de las funciones
-- Identificación de puntos críticos, asíntotas y más
-- Importancia en el análisis de funciones
-
-## Funciones en ciencia de datos
-- Introducción a las funciones en Ciencia de Datos
-- Conoce al perceptrón y su rol
-
-## Funciones de activación
-- Papel de las funciones de activación en redes neuronales
-- Ejemplos y efectos en el aprendizaje
-
-## Modela tu primer función
-- Aplicación práctica: Entendiendo la regresión lineal simple
-- Pasos para modelar funciones en situaciones reales
-
-## ¿Cómo se calcula un error?
-- Exploración de métodos para calcular errores en modelos
-- Evaluación de la precisión de funciones
+### Modelización Práctica
+- Uso de funciones en la regresión lineal simple.
+- Métodos para evaluar la precisión de funciones y cálculo de errores.
 
 ---
 
-¡Espero que estas notas les sean útiles!
+Espero que estas notas les sean de utilidad para comprender los conceptos fundamentales de las funciones matemáticas en el contexto de Data Science e Inteligencia Artificial. ¡A disfrutar aprendiendo!
